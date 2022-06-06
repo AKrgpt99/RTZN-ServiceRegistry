@@ -1,0 +1,26 @@
+{
+  "name": "@rtzn/service-registry",
+  "version": "1.0.0",
+  "description": "Service registry module that updates global Redis cache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKrgpt99/RTZN-ServiceRegistry.git"
+  },
+  "keywords": [
+    "module"
+  ],
+  "author": "Abhinav Kargupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKrgpt99/RTZN-ServiceRegistry/issues"
+  },
+  "homepage": "https://github.com/AKrgpt99/RTZN-ServiceRegistry#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "redis": "^4.1.0"
+  }
+}
